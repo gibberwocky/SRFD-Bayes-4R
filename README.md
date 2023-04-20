@@ -1,4 +1,4 @@
-# SRFD-BayesR
+# SRFD-Bayes-4R
 
 This repository is an R port of the MATLAB code for the SRFD-Bayes method:
 
